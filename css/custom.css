@@ -259,3 +259,160 @@ top: 50%;
 transform: translateY(-50%);
 
 }
+.fa45fdcircle{
+  color: #18D26E !important;
+font-size: 30px;
+padding-right: 10px;
+}
+.headinga{
+font-size: 28px;
+font-weight: 700;
+}
+.newcladorforbggg{
+
+background-image: url(../img/call-to-action-bg.jpg);
+
+
+}
+
+.heocalsforbtn{
+padding: 8px 50px;
+border-radius: 20px;
+border: 1px solid white;
+color: white;
+margin-block:20px;
+}
+.widdjxe{
+  background-color: #e9ecef;
+
+  margin-block:14px ;
+  border-radius: 8px;
+
+}
+.precentest45{
+  border-radius: 8px 0px 0px 8px;
+  background-color: #28a745;
+}
+.precentest452{
+  border-radius: 8px 0px 0px 8px;
+    background-color: #17a2b8!important;
+  
+width: 90%;
+}
+.precentest453{
+  border-radius: 8px 0px 0px 8px;
+width: 75%;
+  background-color:#ffc107!important;
+
+
+}
+.precentest454{
+  border-radius: 8px 0px 0px 8px;
+width: 55%;
+  background-color: #dc3545!important;
+
+}
+.textcolors4{
+  color: #28a745 !important;
+  text-align: center;
+}
+.xfeds9es{
+  background-color: #f0f0f0;
+
+}
+.btnclg{
+border-radius: 4px;
+  margin: 20px;
+  padding: 10px 30px;
+    background-color: white;
+  
+
+}
+.btnclg-active{
+
+  background-color: #28a745 !important;
+}
+.cardforwebapp{
+width: 100%;
+max-width: 290px;
+/* border: 1px solid rebeccapurple; */
+  background-color: white;
+  border-radius: 8px;
+  margin: 20px;
+
+}
+.imgsizedse{
+height: 200px;
+width: 100%;
+border-radius:  8px  8px 0 0;
+
+}
+.xyddf{
+
+/* background-color: green; */
+margin: 30px;
+background-size: cover;
+background-position: center;
+background-repeat: none;
+}
+.hellowimgsd{
+aspect-ratio: 3/2 ;
+filter: grayscale(1) contrast(1.5) brightness(1);
+mix-blend-mode: multiply;
+}
+.divdislidere{
+overflow: auto;
+
+}
+.dsxcfgf45sd{
+/* transform: translateX(-60%); */
+/* transform: translateX(0%); */
+}
+.owl-prev{
+display: none !important;
+}
+.owl-next{
+  display: none !important;
+  }
+.carosul23 .owl-dot span{
+zoom:2 !important;
+
+
+}
+.carosul23 button.active span{
+color: #28a745 !important;
+background-color: #28a745 !important;
+}
+.xfer5cvfdd{
+  background-color: #f0f0f0;
+}
+.imgcalssmenie7{
+width: 100px !important;
+}
+
+.carosuld2ff .owl-item img{
+  width: 100px;
+
+}
+
+.carosuld2ff button.active span{
+  color: #28a745 !important;
+  background-color: #28a745 !important;
+  }
+
+  
+.carosuld2ff button span{
+ 
+  /* background-color: #28a745 !important; */
+  }
+
+  .carosuld2ff button {
+ 
+    background-color: #f0f0f0 !important;
+    }
+
+    .carosuld2ff .owl-dot span{
+      zoom:2 !important;
+      
+      
+      }
