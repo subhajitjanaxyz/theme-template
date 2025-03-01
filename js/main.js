@@ -30,7 +30,7 @@ function next_slide(){
   slidersui();
   if (indexofsliders === 6) {
     setTimeout(() => {
-      console.log('6th slides confirm')
+      
         indexofsliders = 1;   
         slidersui(true);
         transitionactive = false;
@@ -54,7 +54,7 @@ function prev_slide(){
  
   if (indexofsliders === 0) {
       setTimeout(() => {
-        console.log("slider 1 confirm")
+      
           indexofsliders = 5; 
           slidersui(true);
           transitionactive = false;
@@ -159,8 +159,7 @@ const ligroupimg=[
 
 
 document.querySelectorAll(".hellowimgsd").forEach((alldivx,idcmdf)=>{
-console.log(`url(${ligroupimg[idcmdf]})`);
-console.log('')
+
   alldivx.src=`${ligroupimg[idcmdf]}`;
 });
 // 
@@ -212,3 +211,9 @@ jQuery(document).ready(function(){
   
 })
 });
+// menu bar logic
+const clickjss=document.getElementById("menu_click");
+const showjss=document.getElementById("menu_show");
+clickjss.addEventListener("click",()=>{
+  showjss.classList.toggle("d-none");
+})

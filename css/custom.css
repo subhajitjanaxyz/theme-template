@@ -1,9 +1,6 @@
 /* ========================= */
 /* header  */
-.ulgrop{
-display: flex;
-/* border: 1px solid red; */
-}
+
 .ulgrop li{
 list-style: none;
 }
@@ -34,7 +31,7 @@ height: 100%;
     
 }
 .imgforbd{
-width: 20%;
+width: 30%;
 }
 
 .navbarea{
@@ -384,7 +381,7 @@ color: #28a745 !important;
 background-color: #28a745 !important;
 }
 .xfer5cvfdd{
-  background-color: #f0f0f0;
+  background-color: #f0f0f0 !important; 
 }
 .imgcalssmenie7{
 width: 100px !important;
@@ -416,3 +413,354 @@ width: 100px !important;
       
       
       }
+.img_team5dr5{
+width: 100%;
+max-width: 300px;
+height: 300px !important;
+
+}
+.dsfoifde-efsd{
+color:#18D26E;
+font-size: 45px;
+}
+.dxcsd4sdss{
+font-size: 24px;
+font-weight: 700;
+color: gray;
+}
+.fseiru-sdfse{
+font-size: 18px;
+}
+.btjstrxgtsum{
+text-decoration: none;
+background-color: #28a745 !important;
+color: white;
+padding:10px 30px ;
+display: inline-block;
+
+}
+.xyvesf5s4s{
+height: 40px;
+padding-inline: 2rem;
+}
+.btjstrxgtdfsum{
+  padding: 10px 2rem;
+
+  /* background-color: red; */
+  
+
+}
+.btjstrxgtdfsum:focus{
+outline: none !important;
+border: 1px solid  #28a745 !important;
+}
+
+.xyvesf5s4s:focus{
+  outline: none !important;
+  border: 1px solid  #28a745 !important;
+  }
+
+
+.xyfse345::before{
+  display: inline-block;
+  content: "";
+  height: 40px;
+  width: 4px;
+  background-color:#00fa71;
+  position: absolute;
+  right: 105%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+.xyfse3454fff::after{
+  display: inline-block;
+  content: "";
+  height: 3px;
+  width: 100%;
+  background-color:#6f7070;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 105%;
+}
+
+
+
+.xyfse3454fff::before{
+  display: inline-block;
+  content: "";
+  height: 3px;
+  width: 30%;
+  background-color:#00fa71;
+  position: absolute;
+ z-index: 999;
+  top: 105%;
+}
+.txtxdr5s4sa i{
+  background-color: rgb(98, 95, 95) !important;
+  padding: 10px;
+  border-radius: 50%;
+
+}
+.hexr7zw{
+  background-color:#00fa71;
+
+}
+.bg-sgfgfucces{
+color:#00fa71;
+
+}
+/* responsive */
+@media (width<=575px) and (width>=0px){
+
+
+  .btnclg {
+    border-radius: 4px;
+    margin: 20px;
+    padding: 9px 16px;
+    background-color: white;
+}
+
+
+
+
+                                                    .carosul_heading {
+                                                      font-size: 33px;
+                                                      font-weight: 700;
+                                                      color: white;
+                                                  }
+                                                    .carosul-description {
+                                                      font-size: 16px;
+                                                      font-weight: 700;
+                                                      color: white;
+                                                  }
+
+                                                  .dotgroup1 {
+                                                    position: absolute;
+                                                    transform: translateY(-50%);
+                                                    top: 71%;
+                                                    left: 50px;
+                                                    font-size: 50px;
+                                                    cursor: pointer;
+                                                    color: white;
+                                                }
+
+                                                .dotgroup11 {
+                                                  position: absolute;
+                                                  transform: translateY(-50%);
+                                                  top: 71%;
+                                                  right: 50px;
+                                                  font-size: 50px;
+                                                  cursor: pointer;
+                                                  color: white;
+                                              }
+                                              .dotgor {
+                                                width: 36px;
+                                                height: 4px;
+                                                background-color: rgb(85, 76, 76);
+                                                display: inline-block;
+                                            }
+
+
+/*  menu*/
+.navbar-area ul{
+padding-top: 20px;
+position: fixed;
+/* top: 50px; */
+background-color: rgb(0, 0, 0);
+z-index: 99;
+flex-direction: column;
+margin: 0;
+max-width: 250px;
+width: 100%;
+right: 0;
+gap: 10px;
+}
+
+.imgforbd{
+  width: 50%;
+  }
+  
+
+
+
+
+
+}
+@media (width<=767px) and (width>=576px){
+
+  .btnclg {
+    border-radius: 4px;
+    margin: 20px;
+    padding: 9px 16px;
+    background-color: white;
+}
+
+
+
+  .dotgroup1 {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 71%;
+    left: 50px;
+    font-size: 50px;
+    cursor: pointer;
+    color: white;
+}
+
+.dotgroup11 {
+  position: absolute;
+  transform: translateY(-50%);
+  top: 71%;
+  right: 50px;
+  font-size: 50px;
+  cursor: pointer;
+  color: white;
+}
+.dotgor {
+width: 36px;
+height: 4px;
+background-color: rgb(85, 76, 76);
+display: inline-block;
+}
+/*  */
+.imgforbd{
+  width: 50%;
+  }
+  
+
+/*  menu*/
+.navbar-area ul{
+  padding-top: 20px;
+  position: fixed;
+  /* top: 50px; */
+  background-color: rgb(0, 0, 0);
+  z-index: 99;
+  flex-direction: column;
+  margin: 0;
+  max-width: 250px;
+  width: 100%;
+  right: 0;
+  gap: 10px;
+  }
+  
+  .imgforbd{
+    width: 50%;
+    }
+    
+    .carosul_heading {
+      font-size: 33px;
+      font-weight: 700;
+      color: white;
+  }
+    .carosul-description {
+      font-size: 16px;
+      font-weight: 700;
+      color: white;
+  }
+
+  .dotgroup1 {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 71%;
+    left: 50px;
+    font-size: 50px;
+    cursor: pointer;
+    color: white;
+}
+
+.dotgroup11 {
+  position: absolute;
+  transform: translateY(-50%);
+  top: 71%;
+  right: 50px;
+  font-size: 50px;
+  cursor: pointer;
+  color: white;
+}
+.dotgor {
+width: 36px;
+height: 4px;
+background-color: rgb(85, 76, 76);
+display: inline-block;
+}
+
+
+ 
+}
+@media (width<=991px) and (width>=768px){
+
+  .btnclg {
+    border-radius: 4px;
+    margin: 20px;
+    padding: 9px 16px;
+    background-color: white;
+}
+
+
+
+  .imgforbd{
+    width: 50%;
+    }
+
+    /*  menu*/
+.navbar-area ul{
+  padding-top: 20px;
+  position: fixed;
+  /* top: 50px; */
+  background-color: rgb(0, 0, 0);
+  z-index: 99;
+  flex-direction: column;
+  margin: 0;
+  max-width: 250px;
+  width: 100%;
+  right: 0;
+  gap: 10px;
+  }
+  
+  .imgforbd{
+    width: 50%;
+    }
+    
+    .carosul_heading {
+      font-size: 33px;
+      font-weight: 700;
+      color: white;
+  }
+    .carosul-description {
+      font-size: 16px;
+      font-weight: 700;
+      color: white;
+  }
+
+  .dotgroup1 {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 71%;
+    left: 50px;
+    font-size: 50px;
+    cursor: pointer;
+    color: white;
+}
+
+.dotgroup11 {
+  position: absolute;
+  transform: translateY(-50%);
+  top: 71%;
+  right: 50px;
+  font-size: 50px;
+  cursor: pointer;
+  color: white;
+}
+.dotgor {
+width: 36px;
+height: 4px;
+background-color: rgb(85, 76, 76);
+display: inline-block;
+}
+
+    
+
+}

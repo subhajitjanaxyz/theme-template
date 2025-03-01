@@ -20,7 +20,15 @@
 
 
             <div class="navbar-area ">
-                <ul class="d-flex ulgrop justify-content-end  mb-0 ">
+
+            <div class="d-lg-none h-100 d-flex justify-content-end    align-items-center ">
+            <i class="fa-solid fa-bars fs-3" id="menu_click"></i>
+            </div>
+
+
+
+
+                <ul class=" ulgrop justify-content-lg-end  mb-0 d-none d-lg-flex "  id="menu_show">
                     <li>
                         <a href="#">Home</a>
                     </li>

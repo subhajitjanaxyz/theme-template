@@ -103,21 +103,21 @@
  <div class="container-fluid cadfjkd454">
   <div class="container">
     <div class="row">
-      <divccccc class="col-lg-4 py-5">
+      <div class="col-lg-4 py-5 ">
         <div class="mb-3"><i class="fa-solid fa-book-bookmark"></i></div>
         <div class="text-white fs-4">Lorem Ipsum Delino</div>
         <div class="text-white">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</div>
-      </divccccc>
-      <divccccc class="col-lg-4 py-5 bg-lonier">
+      </div>
+      <div class="col-lg-4 py-5 bg-lonier">
       <div class="mb-3"><i class="fa-solid fa-clock"></i></div>
         <div class="text-white fs-4">Dolor Sitema</div>
         <div class="text-white">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</div>
-      </divccccc>
-      <divccccc class="col-lg-4 py-5">
+      </div>
+      <div class="col-lg-4 py-5">
       <div class="mb-3"><i class="fa-regular fa-heart"></i></div>
         <div class="text-white fs-4">Lorem Ipsum Delino</div>
         <div class="text-white">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</div>
-      </divccccc>
+      </div>
     </div>
   </div>
  </div>
@@ -128,9 +128,9 @@
       <div class="fs-1 text-center fw-bolder pb-2">About Us</div>
       <div class="xyx797df7d"></div>
       </div>
-      <div---- class="text-center my-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div---->
+      <div-- class="text-center my-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div-->
       <div class="row">
-        <div  class="col-md-4">
+        <div  class="col-md-4 m-3 m-md-0" >
           <div class="cart453   rounded-3">
             <div class="position-relative ">
               <img src="https://www.techspot.com/images2/news/bigimage/2019/02/2019-02-12-image-20-j_1100.webp" alt="" class="  img-fluid34 rounded-top-3">
@@ -147,7 +147,7 @@
           </div>
         </div>
 
-        <div  class="col-md-4">
+        <div  class="col-md-4 m-3 m-md-0" >
           <div class="cart453   rounded-3">
             <div class="position-relative ">
               <img src="https://static.toiimg.com/thumb/msid-80128493,width-400,resizemode-4/80128493.jpg" alt="" class="  img-fluid34 rounded-top-3">
@@ -164,8 +164,7 @@
            
           </div>
         </div>
-
-        <div  class="col-md-4">
+        <div  class="col-md-4 m-3 m-md-0" >
           <div class="cart453   rounded-3">
             <div class="position-relative ">
               <img src="https://images.squarespace-cdn.com/content/v1/5bae488034c4e28133359c8e/1603191397884-SLQG9ZQ881WQXCRMGS15/360DAM.jpg" alt="" class="  img-fluid34 rounded-top-3">
@@ -438,7 +437,7 @@
         </div>
       </div>
 <div class="row">
-  <div class="col-lg-4">
+  <div class="col-lg-4 d-flex justify-content-center align-items-center d-lg-block">
     <div class="cardforwebapp">
       <div class="">
         <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc0xBYLACXU5zWBzR_FwOOfl33qwZJ3qEz8pDl9hbF6HYl-DMf" alt="" class="imgsizedse">
@@ -450,7 +449,7 @@
     </div>
 
   </div>
-  <div class="col-lg-4">
+  <div class="col-lg-4 d-flex justify-content-center align-items-center d-lg-block">
     <div class="cardforwebapp">
       <div class="">
         <img src="https://images.template.net/wp-content/uploads/2016/05/Site-Survey-Templates.jpg" alt="" class="imgsizedse">
@@ -464,7 +463,7 @@
   </div>
 
 
-  <div class="col-lg-4">
+  <div class="col-lg-4 d-flex justify-content-center align-items-center d-lg-block">
     <div class="cardforwebapp">
       <div class="">
         <img src="https://www.heraldobinario.com.mx/u/fotografias/m/2021/8/11/f425x230-6343_20325_4951.jpg" alt="" class="imgsizedse">
@@ -479,7 +478,7 @@
 
 
 
-  <div class="col-lg-4">
+  <div class="col-lg-4 d-flex justify-content-center align-items-center d-lg-block">
     <div class="cardforwebapp">
       <div class="">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4uKZwgbwvWpKVowuTWOM3xn7__0trUG27rjjrGcfo9mxdYSq" alt="" class="imgsizedse">
@@ -495,7 +494,7 @@
 
 
 
-  <div class="col-lg-4">
+  <div class="col-lg-4 d-flex justify-content-center align-items-center d-lg-block">
     <div class="cardforwebapp">
       <div class="">
         <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQomirKfKBPRpZUtGzsqzRHPzOK8Oge7_Of4EqIhtMHxqTz2oRh" alt="" class="imgsizedse">
@@ -511,7 +510,7 @@
 
 
 
-  <div class="col-lg-4">
+  <div class="col-lg-4 d-flex justify-content-center align-items-center d-lg-block">
     <div class="cardforwebapp">
       <div class="">
         <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_hZFaf0hPt0aPOTtzTjUQRamBIe0mYXT_yxkBeTxPPbGWBLxu" alt="" class="imgsizedse">
@@ -524,8 +523,7 @@
 
   </div>
 
-
-  <div class="col-lg-4">
+  <div class="col-lg-4 d-flex justify-content-center align-items-center d-lg-block">
     <div class="cardforwebapp">
       <div class="">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4t3FVkMsrdZNlnXRqEFPxMVTsNL7Q-g-UhqGelZbtuRv8H1h" alt="" class="imgsizedse">
@@ -539,7 +537,7 @@
   </div>
 
 
-  <div class="col-lg-4">
+  <div class="col-lg-4 d-flex justify-content-center align-items-center d-lg-block">
     <div class="cardforwebapp">
       <div class="">
         <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDafUSL7nkcuHDWH6NvSqGSvvRTCwDWFS0XfUGb8R5lESBxgV4" alt="" class="imgsizedse">
@@ -554,8 +552,7 @@
 
 
 
-
-  <div class="col-lg-4">
+  <div class="col-lg-4 d-flex justify-content-center align-items-center d-lg-block">
     <div class="cardforwebapp">
       <div class="">
         <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSHhJCfoFbXUup7X6WLkwlaF_fIFhvUekS7vm6NcRKrAW3FHCu" alt="" class="imgsizedse">
@@ -638,7 +635,7 @@
  <div class="container-fluid  py-3 xfer5cvfdd">
   <div class="container">
   <div class="my-3">
-      <div class="fs-1 text-center fw-bolder pb-2">Our Clients</div>
+      <div class="fs-1 text-center fw-bolder pb-2">Testimonials</div>
       <div class="xyx797df7d"></div>
       </div>
       <div class="text-center my-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
@@ -648,7 +645,7 @@
       <div class="divdislidere position-relative  ">
         <div class="owl-carousel owl-theme carosuld2ff">
           <!-- profile card  -->
-<div-------- class="d-flex flex-column py-5 xfer5cvfdd">
+<div------ class="d-flex flex-column py-5 xfer5cvfdd">
 
 <div class="d-flex justify-content-center">
   <img src="https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.jpg?s=612x612&w=0&k=20&c=tyLvtzutRh22j9GqSGI33Z4HpIwv9vL_MZw_xOE19NQ=" alt="" class="rounded-circle" width="100px" height="100px">
@@ -662,9 +659,9 @@
 
 
 
-</div-------->
+</div------>
  <!-- profile card  -->
- <div-------- class="d-flex flex-column py-5 xfer5cvfdd">
+ <div------ class="d-flex flex-column py-5 xfer5cvfdd">
 
 <div class="d-flex justify-content-center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Hb5xzFZJCTW4cMqmPwsgfw-gILUV7QevvQ&s" alt="" class="rounded-circle" width="100px" height="100px">
@@ -678,10 +675,10 @@
 
 
 
-</div-------->
+</div------>
 
  <!-- profile card  -->
- <div-------- class="d-flex flex-column py-5 xfer5cvfdd">
+ <div------ class="d-flex flex-column py-5 xfer5cvfdd">
 
 <div class="d-flex justify-content-center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRij6dtiHizH96qpCOe8WeXXP3yLyQJkPdGVg&s" alt="" class="rounded-circle" width="100px" height="100px">
@@ -695,10 +692,10 @@
 
 
 
-</div-------->
+</div------>
 
  <!-- profile card  -->
- <div-------- class="d-flex flex-column py-5 xfer5cvfdd">
+ <div------ class="d-flex flex-column py-5 xfer5cvfdd">
 
 <div class="d-flex justify-content-center">
   <img src="https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.jpg?s=612x612&w=0&k=20&c=tyLvtzutRh22j9GqSGI33Z4HpIwv9vL_MZw_xOE19NQ=" alt="" class="rounded-circle" width="100px" height="100px">
@@ -712,12 +709,12 @@
 
 
 
-</div-------->
+</div------>
 
 
 
  <!-- profile card  -->
- <div-------- class="d-flex flex-column py-5 xfer5cvfdd">
+ <div------ class="d-flex flex-column py-5 xfer5cvfdd">
 
 <div class="d-flex justify-content-center">
   <img src="https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.jpg?s=612x612&w=0&k=20&c=tyLvtzutRh22j9GqSGI33Z4HpIwv9vL_MZw_xOE19NQ=" alt="" class="rounded-circle" width="100px" height="100px">
@@ -731,7 +728,7 @@
 
 
 
-</div-------->
+</div------>
 
 
 
@@ -759,10 +756,225 @@
 
   </div>
  </div>
+  <!-- team -->
+   <!-- new sliders -->
+ <div class="container-fluid  py-5 ">
+  <div class="container">
+       <div class="my-3">
+      <div class="fs-1 text-center fw-bolder pb-2">TEAM</div>
+      <div class="xyx797df7d"></div>
+      </div>
+      <div class="text-center my-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+
+<div class="row">
+  <div class="col-lg-3 d-flex justify-content-center align-items-center
+   m-3 m-lg-0">
+
+
+
+
   
+    <img src="https://miro.medium.com/v2/resize:fit:1200/1*WsPeXyBBuA74youfGN07Fw.jpeg" alt="" class="img_team5dr5 img-fluid">
+  </div>
+  <div class="col-lg-3 d-flex justify-content-center align-items-center
+   m-3 m-lg-0">
+    <img src="https://cdn.ananasposter.ru/image/cache/catalog/poster/pos23/18/66582-1000x830.jpg" alt="" class="img_team5dr5 img-fluid">
+  </div>
+  <div class="col-lg-3 d-flex justify-content-center align-items-center
+   m-3 m-lg-0">
+    <img src="https://media.licdn.com/dms/image/v2/C4E03AQFZrV6S_E8rQQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1542474661059?e=2147483647&v=beta&t=Fd-AKGiEjQqb0A8-xFLfkUzlWCreHhcaFkTo8807lVw" alt="" class="img_team5dr5">
+  </div>
+
+  <div class="col-lg-3 d-flex justify-content-center align-items-center
+   m-3 m-lg-0">
+    <img src="https://www.rajce.idnes.cz/u1477416/avatar/large.jpg" alt="" class="img_team5dr5">
+  </div>
+
+
+
+</div>
+      
+      
+
+
+
+
+
+
+
+  </div>
+ </div>
+<!-- contact us -->
+<div class="container-fluid  py-5 xfer5cvfdd ">
+  <div class="container">
+       <div class="my-3">
+      <div class="fs-1 text-center fw-bolder pb-2">Contact Us</div>
+      <div class="xyx797df7d"></div>
+      </div>
+      <div class="text-center my-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+
+<div class="row">
+<div class="col-lg-4 py-3">
+<div class="text-center"><i class="fa-solid fa-location-dot dsfoifde-efsd"></i></div>
+<div class="text-center dxcsd4sdss py-3">Address</div>
+<div class="text-center fseiru-sdfse">A108 Adam Street, NY 535022, USA</div>
+</div>
+
+
+<div class="col-lg-4 py-3 ">
+<div class="text-center"><i class="fa-solid fa-phone dsfoifde-efsd"></i></div>
+<div class="text-center dxcsd4sdss py-3">Phone Number</div>
+<div class="text-center fseiru-sdfse">+1 5589 55488 55</div>
+</div>
+
+
+<div class="col-lg-4 py-3">
+<div class="text-center"><i class="fa-solid fa-envelope dsfoifde-efsd"></i></div>
+<div class="text-center dxcsd4sdss py-3">Email</div>
+<div class="text-center fseiru-sdfse">info@example.com</div>
+</div>
+
+
+</div>
+      
+      
+<div class="d-flex gap-3 flex-column flex-lg-row">
+                          <div class="w-100 ">
+                          <input type="text" class="w-100 xyvesf5s4s" placeholder="Your Name">
+                          </div>
+
+
+                          <div class="w-100">
+                          <input type="text" class="w-100 xyvesf5s4s" placeholder="Your Email">
+                          </div>
+</div>
+
+<div class="my-3  ">
+  <input type="text" class="w-100 xyvesf5s4s" placeholder="Subject">
+</div>
+
+<div class="my-3">
+<textarea name="" id="" class="w-100 btjstrxgtdfsum" placeholder="Message"></textarea>
+</div>
+
+<div class="text-center">
+  <a href="#"  class="btjstrxgtsum">SENT MESSAGE</a>
+</div>
+
+
+
+
+
+  </div>
+ </div>
+<!-- last footer area -->
+ <div class="container-fluid bg-dark text-white py-5">
+  <div class="container">
+    <div class="row">
+
+    <!-- new -->
+      <div class="col-lg-3">
+       <div class="px-3">
+       <h2 class="xyfse345 position-relative pb-3">BizPage</h2>
+       </div>
+        <div class="">
+        Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.
+        </div>
+      </div>
+        <!-- new -->
+        <div class="col-lg-3">
+        <div class="">
+        <h4 class="xyfse3454fff position-relative pb-3">Useful Links</h4>
+        </div>
+        <div class="">
+                  <div class="border-bottom py-2 xjfse87sfdxz">
+                    <a href="#" class="text-decoration-none text-white"> <i class="fa-solid fa-angle-right pe-3"></i>Home</a>
+                  </div>
+
+                  <div class="border-bottom py-2 xjfse87sfdxz">
+                    <a href="#" class="text-decoration-none text-white"> <i class="fa-solid fa-angle-right pe-3"></i>About us</a>
+                  </div>
+
+                  <div class="border-bottom py-2 xjfse87sfdxz">
+                    <a href="#" class="text-decoration-none text-white"> <i class="fa-solid fa-angle-right pe-3"></i> Services</a>
+                  </div>
+
+                  <div class="border-bottom py-2 xjfse87sfdxz">
+                    <a href="#" class="text-decoration-none text-white"> <i class="fa-solid fa-angle-right pe-3"></i> Terms of service</a>
+                  </div>
+
+
+                  <div class="border-bottom py-2 xjfse87sfdxz">
+                    <a href="#" class="text-decoration-none text-white"> <i class="fa-solid fa-angle-right pe-3"></i> Privacy policy</a>
+                  </div>
+
+                  
+      
+        </div>
+      </div>
+        <!-- new -->
+        <div class="col-lg-3">
+        <h4 class="xyfse3454fff position-relative pb-3">Contact Us</h4>
+        <div class="">
+        <div class="">A108 Adam Street</div>
+        <div class="">New York, NY 535022</div>
+        <div class="">United States</div>
+        <div class=""><strong>Phone:</strong> +1 5589 55488 55</div>
+        <div class=""><strong>Email:</strong> info@example.com</div>
+        <div class="txtxdr5s4sa mt-3">
+        <i class="fa-brands fa-twitter"></i>
+        <i class="fa-brands fa-facebook-f"></i>
+        <i class="fa-brands fa-instagram"></i>
+        <i class="fa-solid fa-g"></i>
+        <i class="fa-brands fa-linkedin-in"></i>
+
+
+      
+       </div>
+        </div>
+      </div>
+        <!-- new -->
+        <div class="col-lg-3">
+        <h4 class="xyfse3454fff position-relative pb-3">Our Newsletter</h4>
+        <div class="">
+       <div class="mb-3"> Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</div>
+        <div class="d-flex ">
+          <input type="text">
+          <div class="px-2 hexr7zw">
+            Subcribe
+          </div>
+          
+        </div>
+        </div>
+      </div>
+      
+
+
+
+
+
+
+    </div>
+  </div>
+ </div>
+ <div class="container-fluid bg-black py 5">
+  <div class="container">
+    <div class=" text-center text-white">
+    © Copyright BizPage. All Rights Reserved
+    </div>
+    <div class="text-center  text-white">
+    Designed by <span class="bg-sgfgfucces">BootstrapMade</span>
+    </div>
+  </div>
+</div>
+
+
 
 
   <?php get_footer();?>
+
+
+
 
 
 
